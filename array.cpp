@@ -16,5 +16,5 @@ int main()
             largestnumber= numbers[i];
         }
     }
-            cout<< thirdlargest<< ",,,";
+            cout<< thirdlargest<< ",,,123";
 }
